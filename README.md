@@ -16,7 +16,7 @@
 
 ## 编程语言
 
-- [JavaScript](https://github.com/zhangzhongjiang/JavaScript)
+- [JavaScript](/JavaScript.md)
 
 - Node
 
