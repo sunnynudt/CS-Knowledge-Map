@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>红绿灯</title>
+
+    <style>
+      html {
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        margin: 20px;
+        padding: 50px;
+        text-align: center
+      }
+      #traffic-light {
+        width: 20px;
+        height: 20px;
+        border-radius: 10px;
+      }
+    </style >
+  </head>
+
+  <body>
+    <!-- 实现一个红绿灯，把一个button按照绿色3秒，黄色1秒，红色2秒循环改变背景色 -->
+    <h3>红绿灯</h3>
+    <button id="traffic-light"></button>
+
+    <script>
+      function sleep(duration) {
+        return new Promise((resolve, reject) => {
+          setTimeout(() => resolve(), duration)
+        })
+      }
+
+      async function changeColor(duration, color) {
+        document.getElementById('traffic-light').style.background = color
+        await sleep(duration)
+      }
+
+      async function main(duration) {
+        while (true) {
+          await changeColor(3000, 'green')
+          await changeColor(1000, 'yellow')
+          await changeColor(2000, 'red')
+        }
+      }
+
+      main()
+
+    </script>
+  </body>
+</html>
