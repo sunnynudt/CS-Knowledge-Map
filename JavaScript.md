@@ -7,3 +7,7 @@
 - [函数](/Notes/JavaScript/JavaScript执行.md)
 - [语句](/Notes/JavaScript/JavaScript执行.md)
 - Demo：[红绿灯](/Demo/JavaScript/trafficLight/index.html)
+
+## JavaScript 语法：[思维导图](/Notes/JavaScript/JavaScript语法.md)
+
+- [脚本、模块、函数体、预处理、指令序言](/Notes/JavaScript/JavaScript语法.md)
