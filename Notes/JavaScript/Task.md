@@ -1,8 +1,6 @@
 ## 异步执行：宏、微任务分析
 
-### 1. 示例分析
-
-#### 代码
+### 1 代码
 
 ```js
 console.log('sync1')
@@ -33,7 +31,7 @@ setTimeout(function() {
 console.log('sync2')
 ```
 
-#### 分析
+### 2 分析
 
 1. 第一遍同步执行，是第一个宏任务。第一个宏任务中，调用了 3 次 setTimeout（Promise 中的代码也是同步执行的），调用了一次 resolve，打印了 3 次。所以，它产生了 3 个宏任务，1 个微任务，2 次打印。
 
@@ -43,7 +41,7 @@ console.log('sync2')
 
 4. 然后，没有微任务了，执行第二个宏任务，所以接下来顺序执行宏任务，显示 setTimeout1、setTimeoutPromise、last_setTimeout、pro_timeout。
 
-#### 结论
+### 3 结论
 
 所以，最终显示顺序如下：
 
@@ -74,7 +72,7 @@ console.log('sync2')
 
    - pro_timeout
 
-#### 疑点
+### 4 答疑
 
 1. 为什么 promise.then 中的 setTimeout 是最后打印的？不用管是宏任务依次执行吗？
 
