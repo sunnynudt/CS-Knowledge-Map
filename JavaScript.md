@@ -12,3 +12,4 @@
 ## JavaScript 语法：[思维导图](/Notes/JavaScript/JavaScript语法.md)
 
 - [脚本、模块、函数体、预处理、指令序言](/Notes/JavaScript/JavaScript语法.md)
+- [语法](/Notes/JavaScript/JavaScript语法.md)
