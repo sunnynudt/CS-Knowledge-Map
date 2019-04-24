@@ -1,5 +1,7 @@
 # JavaScript
 
+## JavaScript 类型：[思维导图](/Notes/JavaScript/JavaScript类型.md)
+
 ## JavaScript 执行：[思维导图](/Notes/JavaScript/JavaScript执行.md)
 
 - [宏观、微观任务](/Notes/JavaScript/JavaScript执行.md)
