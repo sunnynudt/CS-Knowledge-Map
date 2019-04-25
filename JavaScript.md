@@ -22,6 +22,7 @@
 
 ## 2. 参考文献
 
+- [winter：重学前端——每天 10 分钟，重构你的前端知识体系](https://time.geekbang.org/column/intro/154)
 - [You-Dont-Know-JS: 你不懂 JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
 - [掘金翻译-前端系列](https://github.com/xitu/gold-miner/blob/master/front-end.md)
 - [JavaScript 是如何工作的](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-inside-the-networking-layer-how-to-optimize-its-performance-and-security.md)
