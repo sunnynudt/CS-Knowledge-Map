@@ -57,5 +57,4 @@
 ## 优质资料
 
 - [网易木易杨 Blog](https://github.com/yygmind/blog)
-- [算法/深度学习/NLP 面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
-- [中国科学技术大学课程资源](https://github.com/mbinary/USTC-CS-Courses-Resource)
+- [一名合格前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
