@@ -18,18 +18,18 @@
 
 - [JavaScript](/JavaScript.md)
 
-- Node
+<!-- - Node
 
   - [Node.js 实战](https://github.com/zhangzhongjiang/Node.js-in-Action)
   - [Node Hapi 项目实战](https://github.com/zhangzhongjiang/node_hapi)
-  - [如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly)
+  - [如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) -->
 
-- Java
+<!-- - Java
 
   - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
   - [Java 学习/面试指南](https://github.com/Snailclimb/JavaGuide)
   - [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
-  - [stackoverflow 上 Java 相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
+  - [stackoverflow 上 Java 相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa) -->
 
 ## 前端开发
 
