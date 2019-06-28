@@ -6,3 +6,5 @@
 - [你可能从未听说过这 15 个 HTML 元素方法](https://mp.weixin.qq.com/s/QLoTIpVgq5IqqYDW4ZQMKg)
 - [CSS 实现水平垂直居中的 10 种方式](https://juejin.im/post/5b9a4477f265da0ad82bf921?utm_source=gold_browser_extension)
 - [CSS 中重要的层叠概念](https://juejin.im/post/5ba4efe36fb9a05cf52ac192?utm_source=gold_browser_extension)
+- [张鑫旭：CSS3 Transitions, Transforms 和 Animation 使用简介与应用展示](https://www.zhangxinxu.com/wordpress/2010/11/css3-transitions-transforms-animation-introduction/)
+- [阮一峰：CSS 动画简介](https://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
