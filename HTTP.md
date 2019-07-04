@@ -9,3 +9,5 @@
 - [HTTP 世界全览：相关的概念与协议](/Notes/HTTP/HTTP世界全览：相关的概念与协议.md)
 
 - [网络分层模型：TCP/IP 四层模型和 IOS 七层模型](/Notes/HTTP/网络分层模型.md)
+
+- [HTTP 进阶知识](/Notes/HTTP/HTTP进阶知识.md)
