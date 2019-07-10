@@ -11,3 +11,8 @@
 - [网络分层模型：TCP/IP 四层模型和 IOS 七层模型](/Notes/HTTP/网络分层模型.md)
 
 - [HTTP 进阶知识](/Notes/HTTP/HTTP进阶知识.md)
+  - 实体数据
+  - 传输大文件的方法
+  - 连接管理
+  - 重定向和跳转
+  - Cookie 机制
