@@ -45,6 +45,8 @@
 
 ## <img src="./Assets/icons/面试.png" width="30px" height="30px"> Interview
 
+- [前端 100 问：能搞懂 80%的请把简历给我](https://github.com/yygmind/blog/issues/43)
+- [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 - [技术面试必备基础知识 CS-Notes](https://github.com/CyC2018/CS-Notes)
 - [秋招学习笔记](https://github.com/CyC2018/CS-Notes)
