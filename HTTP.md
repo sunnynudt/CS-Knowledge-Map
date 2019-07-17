@@ -13,8 +13,8 @@
 - [HTTP 进阶知识](/Notes/HTTP/HTTP进阶知识.md)
   - 实体数据
   - [传输大文件的方法](/Notes/HTTP/HTTP传输大文件的方法.md)
-  - 连接管理
+  - [连接管理](/Notes/HTTP/HTTP连接管理.md)
   - 重定向和跳转
-  - Cookie 机制
-  - 缓存控制
-  - 代理服务
+  - [Cookie 机制](/Notes/HTTP/Cookie机制.md)
+  - [缓存控制](/Notes/HTTP/HTTP缓存控制.md)
+  - [代理服务](/Notes/HTTP/HTTP代理服务.md)
