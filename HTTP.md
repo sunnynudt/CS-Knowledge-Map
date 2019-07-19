@@ -18,3 +18,4 @@
   - [Cookie 机制](/Notes/HTTP/Cookie机制.md)
   - [缓存控制](/Notes/HTTP/HTTP缓存控制.md)
   - [代理服务](/Notes/HTTP/HTTP代理服务.md)
+  - [缓存代理](/Notes/HTTP/HTTP缓存代理.md)
