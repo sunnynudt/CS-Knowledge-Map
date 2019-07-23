@@ -48,8 +48,6 @@
 - [前端 100 问：能搞懂 80%的请把简历给我](https://github.com/yygmind/blog/issues/43)
 - [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
 - [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-- [技术面试必备基础知识 CS-Notes](https://github.com/CyC2018/CS-Notes)
-- [秋招学习笔记](https://github.com/CyC2018/CS-Notes)
 - [面试图谱 CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 - [前端小白半年准备，成功进入 BAT](https://github.com/brickspert/blog/issues/16)
 - [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4)
@@ -62,5 +60,5 @@
 
 ## <img src="./Assets/icons/资料.png" width="30px" height="30px"> 优质资料
 
-- [网易木易杨 Blog](https://github.com/yygmind/blog)
+- [木易杨 Blog：高级前端进阶](https://github.com/yygmind/blog)
 - [一名合格前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
