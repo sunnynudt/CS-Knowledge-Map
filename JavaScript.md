@@ -12,17 +12,21 @@
 - [闭包、执行上下文](/Notes/JavaScript/JavaScript执行.md)
 - [函数](/Notes/JavaScript/JavaScript执行.md)
 - [语句](/Notes/JavaScript/JavaScript执行.md)
-- Demo：[红绿灯](/Demo/JavaScript/trafficLight/index.html)
+- [Demo：红绿灯](/Demo/JavaScript/trafficLight/index.html)
 - 异步执行流程分析
   - [winter：宏、微任务分析](/Notes/JavaScript/Async_Winter.md)
   - [狼叔：宏、微任务分析](/Notes/JavaScript/Async_狼叔.md)
+- 好文推荐
+  - [考拉前端：浏览器和 NodeJS 中不同的 Event Loop](https://github.com/kaola-fed/blog/issues/234)
+  - [掘金好文：从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7#comment)
+  - [掘金好文：这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 
 ### 4. JavaScript 语法：[思维导图](/Notes/JavaScript/JavaScript语法.md)
 
 - [脚本、模块、函数体、预处理、指令序言](/Notes/JavaScript/JavaScript语法.md)
 - [语法](/Notes/JavaScript/JavaScript语法.md)
 
-## 2. 参考文献
+## 2. 参考
 
 - [You-Dont-Know-JS: 你不懂 JS（系列丛书）](https://github.com/JoeHetfield/You-Dont-Know-JS)
 - [掘金翻译-前端系列](https://github.com/xitu/gold-miner/blob/master/front-end.md)
