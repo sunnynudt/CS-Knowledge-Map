@@ -1,7 +1,5 @@
 # 计算机知识图谱
 
-作为一个有技术追求的程序员，笔者写博客有三个目的，一是完善自己的技术体系，二是锻炼自己的写作能力，三是记录自己青春的点点滴滴。
-
 ## 基础知识
 
 - [数据结构与算法](https://github.com/zhangzhongjiang/Data-Structures-Algorithms)
