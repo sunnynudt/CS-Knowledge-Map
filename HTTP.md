@@ -1,6 +1,6 @@
-# <img src="./Assets/icons/http.png" width="31px" height="30px"> HTTP
+# HTTP
 
-## <img src="./Assets/icons/思维导图.png" width="31px" height="30px"> 思维导图
+## 思维导图
 
 - [HTTP 知识 Map](/Notes/HTTP/HTTP知识Map.md)
 

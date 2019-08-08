@@ -1,4 +1,4 @@
-# <img src="./Assets/icons/CSS.png" width="30px" height="30px"> CSS
+# CSS
 
 ## 参考文献
 

@@ -1,4 +1,4 @@
-# <img src="./Assets/icons/JavaScript.png" width="30px" height="30px"> JavaScript
+# JavaScript
 
 ## 1. 基础知识
 

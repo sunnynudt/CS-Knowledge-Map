@@ -1,4 +1,4 @@
-# <img src="./Assets/icons/浏览器.png" width="30px" height="30px"> 浏览器
+# 浏览器
 
 ## [一个浏览器是如何工作的](/Notes/Browser/一个浏览器是如何工作的.md)
 

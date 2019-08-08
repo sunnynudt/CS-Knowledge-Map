@@ -1,4 +1,4 @@
-# <img src="./Assets/icons/操作系统.png" width="33px" height="30px"> 操作系统
+# 操作系统
 
 #### 1. CPU
 

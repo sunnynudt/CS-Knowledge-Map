@@ -1,4 +1,4 @@
-# <img src="./Assets/icons/计算机.png" width="32px" height="30px"> 计算机组成原理
+# 计算机组成原理
 
 ## 入门
 

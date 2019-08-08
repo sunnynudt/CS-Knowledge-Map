@@ -1,8 +1,8 @@
-# <img src="./Assets/icons/知识.png" width="50px" height="25px"> 计算机知识图谱
+# 计算机知识图谱
 
 作为一个有技术追求的程序员，笔者写博客有三个目的，一是完善自己的技术体系，二是锻炼自己的写作能力，三是记录自己青春的点点滴滴。
 
-## <img src="./Assets/icons/基础知识.png" width="30px" height="30px"> 基础知识
+## 基础知识
 
 - [数据结构与算法](https://github.com/zhangzhongjiang/Data-Structures-Algorithms)
 
@@ -16,7 +16,7 @@
 
 - [设计模式](/DesignPatterns.md)
 
-## <img src="./Assets/icons/WEB前端.png" width="30px" height="30px"> 前端开发
+## 前端开发
 
 - [JavaScript](/JavaScript.md)
 
@@ -43,7 +43,7 @@
   - [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
   - [stackoverflow 上 Java 相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa) -->
 
-## <img src="./Assets/icons/面试.png" width="30px" height="30px"> Interview
+## Interview
 
 - [前端 100 问：能搞懂 80%的请把简历给我](https://github.com/yygmind/blog/issues/43)
 - [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
@@ -53,12 +53,12 @@
 - [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4)
 - [ResumeSample](https://github.com/geekcompany/ResumeSample)
 
-## <img src="./Assets/icons/成长.png" width="30px" height="30px"> 自我成长
+## 自我成长
 
 - [程序员如何自我学习-阿里资深技术专家](https://mp.weixin.qq.com/s/VlpOzxc2NB1Usbr0IJMTIQ)
 - [写给工程师的十条精进原则-美团](https://zhuanlan.zhihu.com/p/42262128)
 
-## <img src="./Assets/icons/资料.png" width="30px" height="30px"> 优质资料
+## 优质资料
 
 - [木易杨 Blog：高级前端进阶](https://github.com/yygmind/blog)
 - [一名合格前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
