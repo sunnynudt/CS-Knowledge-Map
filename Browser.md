@@ -1,9 +1,12 @@
 # 浏览器
 
-## [一个浏览器是如何工作的](/Notes/Browser/一个浏览器是如何工作的.md)
+## [浏览器工作原理与实践](https://time.geekbang.org/column/intro/216)
+
+1. [Chrome 架构](/Notes/Browser/Chrome架构.md)
 
 ## 参考文献
 
+- [Winter：一个浏览器是如何工作的](/Notes/Browser/一个浏览器是如何工作的.md)
 - [图解浏览器的基本工作原理 🔝 💯](https://zhuanlan.zhihu.com/p/47407398)
 - [深入浏览器的事件循环 (GDD@2018)](https://zhuanlan.zhihu.com/p/45111890)
 - [现代浏览器内部揭秘（第一部分）](https://github.com/xitu/gold-miner/blob/master/TODO1/inside-look-at-modern-web-browser-part1.md)
