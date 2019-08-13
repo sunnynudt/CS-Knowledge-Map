@@ -3,6 +3,7 @@
 ## [浏览器工作原理与实践](https://time.geekbang.org/column/intro/216)
 
 1. [Chrome 架构](/Notes/Browser/Chrome架构.md)
+2. [导航流程：从输入 URL 到页面展示，这中间发生了什么？](/Notes/Browser/导航流程：从输入URL到页面展示，这中间发生了什么.md)
 
 ## 参考文献
 
