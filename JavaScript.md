@@ -9,13 +9,22 @@
 ### 3. JavaScript 执行：[思维导图](/Notes/JavaScript/JavaScript执行.md)
 
 - [宏观、微观任务](/Notes/JavaScript/JavaScript执行.md)
+
 - [闭包、执行上下文](/Notes/JavaScript/JavaScript执行.md)
+
 - [函数](/Notes/JavaScript/JavaScript执行.md)
+
 - [语句](/Notes/JavaScript/JavaScript执行.md)
+
 - [Demo：红绿灯](/Demo/JavaScript/trafficLight/index.html)
+
+- [sleep: 利用 Promise 将 setTimeout 封装成可以用于异步的函数](/Code/JS/sleep.js)
+
 - 异步执行流程分析
+
   - [winter：宏、微任务分析](/Notes/JavaScript/Async_Winter.md)
   - [狼叔：宏、微任务分析](/Notes/JavaScript/Async_狼叔.md)
+
 - 好文推荐
   - [考拉前端：浏览器和 NodeJS 中不同的 Event Loop](https://github.com/kaola-fed/blog/issues/234)
   - [掘金好文：从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://juejin.im/post/5a6547d0f265da3e283a1df7#comment)
