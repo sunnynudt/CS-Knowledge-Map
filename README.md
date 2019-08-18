@@ -4,27 +4,27 @@
 
 - [数据结构与算法](https://github.com/zhangzhongjiang/Data-Structures-Algorithms)
 
-- [HTTP 协议](/HTTP.md)
+- [HTTP 协议](/Notes/HTTP.md)
 
-- [网络协议](/Network.md)
+- [网络协议](/Notes/Network.md)
 
-- [操作系统](/OperatingSystem.md)
+- [操作系统](/Notes/OperatingSystem.md)
 
-- [计算机组成原理](/Basic.md)
+- [计算机组成原理](/Notes/Basic.md)
 
-- [设计模式](/DesignPatterns.md)
+- [设计模式](/Notes/DesignPatterns.md)
 
 ## 前端开发
 
-- [JavaScript](/JavaScript.md)
+- [JavaScript](/Notes/JavaScript.md)
 
-- [浏览器](/Browser.md)
+- [浏览器](/Notes/Browser.md)
 
-- [CSS](/CSS.md)
+- [CSS](/Notes/CSS.md)
 
-- [HTML](/HTML.md)
+- [HTML](/Notes/HTML.md)
 
-- [Webpack](/Webpack.md)
+- [Webpack](/Notes/Webpack.md)
 
 <!-- ## 后端开发 -->
 
