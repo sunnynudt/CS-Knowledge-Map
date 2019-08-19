@@ -1,6 +1,6 @@
 # 异步执行：宏、微任务分析
 
-## [代码 demo](/Demo/JavaScript/Async_狼叔.js)
+## [代码 demo](/Demo/JS/Async_狼叔.js)
 
 ## 解析
 

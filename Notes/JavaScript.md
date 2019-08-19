@@ -16,7 +16,7 @@
 
 - [语句](/Notes/JavaScript/JavaScript执行.md)
 
-- [Demo：红绿灯](/Demo/JavaScript/trafficLight/index.html)
+- [Demo：红绿灯](/Demo/JS/trafficLight/index.html)
 
 - [sleep: 利用 Promise 将 setTimeout 封装成可以用于异步的函数](/Code/JS/sleep.js)
 
