@@ -173,12 +173,24 @@ TCP链接建立后发送HTTP请求
 
 ## 3. 参考文献
 
-- [知乎 饿了么前端：浏览器输入 URL 后发生了什么？](https://zhuanlan.zhihu.com/p/43369093)
-
 - [一文读懂一个 URL 请求的过程是怎样的](https://juejin.im/post/5b83b0bfe51d4538c63131a8)
+
+- [Github: 深入理解浏览器的缓存机制](https://github.com/ljianshu/Blog/issues/23)
 
 - [Github: 当···时发生了什么？](https://github.com/skyline75489/what-happens-when-zh_CN)
 
 - [Github: 从浏览器输入一个 url 到页面渲染，涉及的知识点及优化点](https://github.com/sunyongjian/blog/issues/34)
 
+- [Github: 从 URL 输入到页面展现到底发生什么？](https://github.com/ljianshu/Blog/issues/24)
+
 - [前端经典面试题: 从输入 URL 到页面加载发生了什么？](https://segmentfault.com/a/1190000006879700)
+
+- [可能是全网最全的 http 面试答案](https://juejin.im/post/5d032b77e51d45777a126183)
+
+- [前端基础篇之 HTTP 协议](https://juejin.im/post/5cd0438c6fb9a031ec6d3ab2)
+
+- [Github: 深入浅出浏览器渲染原理](https://github.com/ljianshu/Blog/issues/51)
+
+- [Github: 浏览器存储](https://github.com/ljianshu/Blog/issues/25)
+
+- [知乎：一文读懂前端缓存](https://zhuanlan.zhihu.com/p/44789005)
