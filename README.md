@@ -30,6 +30,8 @@
 
 - [从输入 URL 到页面展示，这中间发生了什么？](/Issues/从输入URL到页面展示.md)
 
+- [JavaScript: 手动实现 call,apply,bind](/Code/JS/手动实现call_apply_bind.js)
+
 <!-- ## 后端开发 -->
 
 <!-- - Node
