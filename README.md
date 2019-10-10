@@ -1,16 +1,13 @@
-## 基础知识
+## Basics
 
 - [数据结构与算法](https://github.com/zhangzhongjiang/Data-Structures-Algorithms)
-- [HTTP 协议](/Notes/HTTP.md)
-- [网络协议](/Notes/Network.md)
-- [操作系统](/Notes/OperatingSystem.md)
-- [计算机组成原理](/Notes/Basic.md)
-- [设计模式](/Notes/DesignPatterns.md)
-
-## 前端开发
-
 - [JavaScript](/Notes/JavaScript.md)
 - [浏览器](/Notes/Browser.md)
+- [HTTP 协议](/Notes/HTTP.md)
+- [网络协议](/Notes/Network.md)
+  <!-- - [操作系统](/Notes/OperatingSystem.md) -->
+  <!-- - [计算机组成原理](/Notes/Basic.md) -->
+  <!-- - [设计模式](/Notes/DesignPatterns.md) -->
 
 ## Issues
 
@@ -20,7 +17,7 @@
 - [如何系统的优化页面?](/Issues/如何系统的优化页面.md)
 - [Vue](/Issues/Vue.md)
 - [CSS](/Notes/CSS.md)
-- [Webpack](/Notes/Webpack.md)
+- [Webpack](/Issues/Webpack.md)
 
 <!-- ## 后端开发 -->
 

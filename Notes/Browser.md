@@ -7,6 +7,7 @@
 
 ## 参考文献
 
+- [深入理解现代浏览器](https://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650589846&idx=1&sn=536978e07c5e4e1fe84a35a3cf42d5c2&chksm=8891dab2bfe653a4c335c52133ebabe1b5436f363d02f184df8da86c124fe0fda7facec9857c&mpshare=1&scene=23&srcid=#rd)
 - [Winter：一个浏览器是如何工作的](/Notes/Browser/一个浏览器是如何工作的.md)
 - [图解浏览器的基本工作原理 🔝 💯](https://zhuanlan.zhihu.com/p/47407398)
 - [深入浏览器的事件循环 (GDD@2018)](https://zhuanlan.zhihu.com/p/45111890)
