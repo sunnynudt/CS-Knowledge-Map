@@ -38,8 +38,8 @@
        ![](/Images/TCP状态机.jpg)
 
 - HTTP/HTTPS: 建立 TCP 连接后，浏览器端会构建请求行、请求头等信息，并把和该域名相关的 Cookie 等数据附加到请求头中，然后向服务器发送构建的请求信息。
-  - HTTPS 工作模式
-    ![](/Images/HTTPS工作模式.jpg)
+  - [HTTPS 工作模式](/Issues/HTTPS请求流程.md)
+    ![](/Images/HTTPS请求流程.png)
 - 服务器接收请求信息后，生成响应数据，并发给网络进程。网络进程接收到并解析响应头信息。
   - 重定向：如果返回的状态码是 301 或 302，网络进程会从响应头的`Location`字段读取重定向的地址，重新发起 HTTP（HTTPS）请求，一切从头开始。
   - `HSTS`(HTTP 严格传输协议，HTTP Strict Transport Security)
