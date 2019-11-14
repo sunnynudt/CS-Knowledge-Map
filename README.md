@@ -44,6 +44,10 @@
   - [互联网 Java 工程师进阶知识完全扫盲](https://github.com/doocs/advanced-java)
   - [stackoverflow 上 Java 相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa) -->
 
+## Tricks
+
+- [Spy on the DOM](https://dev.to/eddieaich/spy-on-the-dom-3d47)
+
 ## Interview
 
 - [前端 100 问：能搞懂 80%的请把简历给我](https://github.com/yygmind/blog/issues/43)
