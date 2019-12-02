@@ -13,6 +13,7 @@
 
 - [从输入 URL 到页面展示，这中间发生了什么？](/Issues/从输入URL到页面展示.md)
 - [事件循环机制](/Issues/事件循环机制.md)
+- [JavaScript 原型](/Issues/JavaScript原型.md)
 - [JavaScript 函数](/Issues/JavaScript函数.md)
 - [Promise 原理及实现](/Issues/Promise原理及实现.md)
 - [JavaScript: 手动实现 call,apply,bind](/Code/JS/手动实现call_apply_bind.js)
