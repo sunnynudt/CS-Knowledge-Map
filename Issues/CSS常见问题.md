@@ -1,0 +1,34 @@
+<!-- 1. 双列布局
+2. flex 布局
+3. position 属性, sticky -->
+
+### 1. 理解 `word-break`、`overflow-wrap（word-wrap）`、`white-space`
+
+#### 1. `white-space`
+
+该属性是用来控制空白字符的显示，还能控制是否自动换行。
+
+|              |        |         |          |                 |
+| :----------: | :----: | :-----: | :------: | :-------------: |
+| 能否发挥作用 | 换行符 |  空格   | 自动换行 | `<br>`、`&nbsp` |
+|   `normal`   |   x    | x(合并) |    √     |        √        |
+|   `nowrap`   |   x    | x(合并) |    x     |        √        |
+|    `pre`     |   √    |    √    |    x     |        √        |
+|  `pre-wrap`  |   √    |    √    |    √     |        √        |
+|  `pre-line`  |   √    | x(合并) |    √     |        √        |
+
+#### 2. `word-break`
+
+该属性控制单词如何被拆分换行的。
+
+- `keep-all`：所有“单词”一律不拆分，包括连续的中文字符（日韩文等），可以理解为*只有空格可以触发自动换行*。
+- `break-all`: 所有“单词”碰到边界一律拆分换行。
+
+#### 3. [`overflow-wrap（word-wrap）`](https://developer.mozilla.org/zh-CN/docs/Web/CSS/word-wrap)
+
+该属性是用来说明当一个不能被分开的字符串太长而不能填充其包裹盒时，为防止其溢出，浏览器是否允许这样的单词中断换行。
+
+> 注：word-wrap 属性原本属于微软的一个私有属性，在 CSS3 现在的文本规范草案中已经被重名为 overflow-wrap 。 word-wrap 现在被当作 overflow-wrap 的 “别名”。
+
+- normal：表示在正常的单词结束处换行。
+- break-word：表示如果行内没有多余的地方容纳该单词到结尾，则那些正常的不能被分割的单词会被强制分割换行。
