@@ -2,7 +2,36 @@
 2. flex 布局
 3. position 属性, sticky -->
 
-### 1. 理解 `word-break`、`overflow-wrap（word-wrap）`、`white-space`
+### 1. 理解 BFC
+
+#### 1. 概念
+
+`BFC`即`Block Formatting Contexts`（块级格式化上下文），具有`BFC`特性的元素可以看作是隔离了的独立容器，容器里面的元素不会在布局上影响到外面的元素，并且`BFC`具有普通容器所没有的一些特性。
+
+#### 2. 触发条件
+
+只要元素满足下面任一条件即可触发`BFC`特性：
+
+- 根元素`html`
+- 浮动元素：`float`除`none`以外的值
+- 绝对定位元素：`position(absolute, fixed)`
+- `display`为`inline-block`、`table-cells`、`flex`
+- `overflow`除了`visible`以外的值(`hidden`、`auto`、`scroll`)
+- ...
+
+#### 3. 应用
+
+- 同一个`BFC`中外边距会发生折叠
+- `BFC`可以包含浮动的元素（清除浮动）
+- `BFC`可以阻止元素被浮动元素覆盖
+- ...
+
+#### 4. 参考
+
+- [MDN: 块格式化上下文](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
+- [知乎：10 分钟理解 BFC 原理](https://zhuanlan.zhihu.com/p/25321647)
+
+### 2. 理解 `word-break`、`overflow-wrap（word-wrap）`、`white-space`
 
 #### 1. `white-space`
 
