@@ -50,3 +50,5 @@
    - 销毁阶段
      - `beforeDestroy`
      - `destroyed`
+
+9. 实现 [min-vuex](/Code/min-vuex.js)
