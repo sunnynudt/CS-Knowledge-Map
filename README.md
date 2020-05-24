@@ -27,6 +27,8 @@
 - [重排、重绘、合成及性能优化](/Issues/重排重绘合成.md)
 - [常见设计模式](/Issues/常见设计模式.md)
 - [HTTPS 请求流程](/Issues/HTTPS请求流程.md)
+- [两个超大正整数相加](/Code/bigNumber.js)
+- [深入浅出 Vue.js](/Notes/深入浅出Vue.js.md)
 
 <!-- ## 后端开发 -->
 
