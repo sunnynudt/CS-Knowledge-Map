@@ -22,22 +22,16 @@
 - [如何系统的优化页面?](/Issues/如何系统的优化页面.md)
 - [Vue](/Issues/Vue.md)
 - [CSS](/Notes/CSS.md)
-- [Webpack](/Issues/Webpack.md)
 - [TCP 三次握手](/Issues/TCP三次握手.md)
 - [TCP 四次挥手](/Issues/TCP四次挥手.md)
 - [重排、重绘、合成及性能优化](/Issues/重排重绘合成.md)
 - [常见设计模式](/Issues/常见设计模式.md)
 - [HTTPS 请求流程](/Issues/HTTPS请求流程.md)
-- [高性能渲染长列表：时间分片和虚拟列表](/Issues/高性能渲染长列表.md)
-- [CSS 常见问题](/Issues/CSS常见问题.md)
-- [小程序](/Issues/小程序.md)
 
 <!-- ## 后端开发 -->
 
 <!-- - Node
 
-  - [Node.js 实战](https://github.com/zhangzhongjiang/Node.js-in-Action)
-  - [Node Hapi 项目实战](https://github.com/zhangzhongjiang/node_hapi)
   - [如何正确的学习 Node.js](https://github.com/i5ting/How-to-learn-node-correctly) -->
 
 <!-- - Java
@@ -50,23 +44,10 @@
 ## Tricks
 
 - [Spy on the DOM](https://dev.to/eddieaich/spy-on-the-dom-3d47)
-
-## Interview
-
-- [前端 100 问：能搞懂 80%的请把简历给我](https://github.com/yygmind/blog/issues/43)
-- [金三银四魔都两年半前端面经](https://juejin.im/post/5cb87f9df265da03555c78ec)
-- [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
-- [面试图谱 CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
-- [前端小白半年准备，成功进入 BAT](https://github.com/brickspert/blog/issues/16)
-- [如何轻松拿到淘宝前端 offer](https://juejin.im/post/5bbc54a2e51d450e5a7445b4)
-- [ResumeSample](https://github.com/geekcompany/ResumeSample)
+- [高性能渲染十万条数据(时间分片)](https://juejin.im/post/5d76f469f265da039a28aff7)
+- [高性能渲染十万条数据(虚拟列表)](https://juejin.im/post/5db684ddf265da4d495c40e5)
 
 ## 自我成长
 
 - [程序员如何自我学习-阿里资深技术专家](https://mp.weixin.qq.com/s/VlpOzxc2NB1Usbr0IJMTIQ)
 - [写给工程师的十条精进原则-美团](https://zhuanlan.zhihu.com/p/42262128)
-
-## 优质资料
-
-- [木易杨 Blog：高级前端进阶](https://github.com/yygmind/blog)
-- [一名合格前端工程师的自检清单](https://juejin.im/post/5cc1da82f265da036023b628)
