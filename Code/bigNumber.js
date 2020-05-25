@@ -2,7 +2,7 @@ function sum(x, y) {
   const maxLength = Math.max(x.length, y.length)
   x = x.padStart(maxLength, '0')
   y = y.padStart(maxLength, '0')
-  
+
   let tmp = 0
   let flag = 0
   let sum = ''

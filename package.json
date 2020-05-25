@@ -1,7 +1,7 @@
 {
   "name": "cs-knowledge-map",
   "version": "1.0.0",
-  "description": "- [数据结构与算法](https://github.com/zhangzhongjiang/Data-Structures-Algorithms) - [JavaScript](/Notes/JavaScript.md) - [浏览器](/Notes/Browser.md) - [HTTP 协议](/Notes/HTTP.md) - [网络协议](/Notes/Network.md)   <!-- - [操作系统](/Notes/OperatingSystem.md) -->   <!-- - [计算机组成原理](/Notes/Basic.md) -->   <!-- - [设计模式](/Notes/DesignPatterns.md) -->",
+  "description": "前端知识图谱",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,13 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/zhangzhongjiang/CS-Knowledge-Map.git"
   },
-  "author": "",
+  "author": "ZZJ",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zhangzhongjiang/CS-Knowledge-Map/issues"
   },
-  "homepage": "https://github.com/zhangzhongjiang/CS-Knowledge-Map#readme",
-  "dependencies": {
-    "promises-aplus-tests": "^2.1.2"
-  }
+  "homepage": "https://github.com/zhangzhongjiang/CS-Knowledge-Map#readme"
 }
